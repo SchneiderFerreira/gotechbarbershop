@@ -1,1 +1,1 @@
-Aplicação fullstack feita por: Schneider Ferreira e Vitor Jimenez.
+Aplicação fullstack feita por: Schneider Ferreira e Vitor Jimenez!
